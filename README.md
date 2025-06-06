@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm İsmail</h1> <h3 align="left">A Web Developer from Turkey</h3>
+<h1 align="left">Front-end Developer</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karmalia&" alt="karmalia" /></p>
 <h3 align="left">Languages and Tools:</h3>
 🌐 Frontend Development
