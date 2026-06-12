@@ -1,4 +1,18 @@
 <h1 align="left">Front-end Developer</h1>
+<div align="left">
+  <h2>🚀 Featured Project: Sanki App</h2>
+  <p>Anki-compatible, offline-first modern flashcard application equipped with an AI Study Tutor.</p>
+  <a href="https://getsanki.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Sanki_App-22183c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sanki Website" />
+  </a>
+  <a href="https://apps.apple.com/us/app/sanki-flashcard-study-app/id6763845218" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Link" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.karmalia.sanki.app" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Android-a4c639?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Link" />
+  </a>
+</div>
+<hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karmalia&" alt="karmalia" /></p>
 <h3 align="left">Languages and Tools:</h3>
 🌐 Frontend Development
